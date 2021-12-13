@@ -2,7 +2,7 @@
 A simple webpage that allows a user to add employees to a database. 
 Node.js is used to run the page on a local server
 
-Within the 'AddEmployee.js' file are different ideas on how to POST the JSON file to server||.txt file||.php file etc
+/*Within the 'AddEmployee.js' file are different ideas on how to POST the JSON file to server||.txt file||.php file etc
 most have been commented out. The fetch API is the most concise. Unfortunately I keep running into
 a code 405 error when the API is called, so until this has been resolved, the static web page cannot
 communicate with said server etc.
