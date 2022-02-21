@@ -118,6 +118,4 @@ function fetchData(){
     document.querySelector("#employee-box").innerHTML=JSON.stringify(json[0]);
     
   })
- 
-
 }
